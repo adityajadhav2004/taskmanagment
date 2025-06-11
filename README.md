@@ -52,6 +52,9 @@ This task manager application helps users organize their daily activities with f
 - Unit tests for core task management functions
 - Integration tests for task filtering and state manipulation
 
+[![Watch the demo](https://img.youtube.com/vi/kuSozW6AmcE/0.jpg)](https://youtube.com/shorts/kuSozW6AmcE)
+
+
 ## 📚 Project Structure
 
 ```
