@@ -1,4 +1,3 @@
-/* Netlify configuration for React Native Web (Expo) static site */
 [build]
   command = "npx expo export:web"
   publish = "web-build"
