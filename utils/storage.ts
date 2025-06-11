@@ -1,8 +1,8 @@
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { Task } from './types';
 
-const TASKS_STORAGE_KEY = '@myTasks:tasks';
-const DARK_MODE_KEY = '@myTasks:darkMode';
+const TASKS_STORAGE_KEY = '@taskManagment:tasks';
+const DARK_MODE_KEY = '@taskManagment:darkMode';
 
 // Save tasks to AsyncStorage
 export const saveTasks = async (tasks: Task[]): Promise<void> => {

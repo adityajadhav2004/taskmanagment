@@ -256,7 +256,7 @@ export default function HomeScreen() {
       />
       
       <View style={[styles.header, { backgroundColor: colors.card }]}>
-        <Text style={[styles.title, { color: colors.text }]}>My Tasks</Text>
+        <Text style={[styles.title, { color: colors.text }]}>Task Managment</Text>
         <View style={styles.themeSwitch}>
           <Text style={{ color: colors.textSecondary }}>🌙</Text>
           <Switch 

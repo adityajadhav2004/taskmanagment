@@ -55,7 +55,7 @@ This task manager application helps users organize their daily activities with f
 ## 📚 Project Structure
 
 ```
-my-tasks-app/
+task-managment-app/
 ├── App.tsx                   # Main application entry point
 ├── components/
 │   ├── TaskItem.tsx          # Individual task component
